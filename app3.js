@@ -1,3 +1,4 @@
+// Factory Pattern
 function MemberFactory() {
   this.createMember = (name, type) => {
     let member;
